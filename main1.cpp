@@ -4,6 +4,7 @@ using namespace std;
 class Area{
 	public:
 	int l,w,ar;
+	// (l) used for length , (w) used for width, (ar) used for area
 	setDim(){
 		cout<<"Enter your length = ";
 		cin>>l;
